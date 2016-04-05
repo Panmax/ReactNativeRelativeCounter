@@ -2,4 +2,4 @@
 
 ## 截图
 
-![截图](https://github.com/Panmax/ReactNativeRelativeCounter/tree/master/screenshot/1.png)
+![截图](https://github.com/Panmax/ReactNativeRelativeCounter/blob/master/screenshot/1.png?raw=true)
